@@ -1,0 +1,5 @@
+In my opinion, React seems like it woudl be very easy to use once you become used to the tendencies that it has. The fact that think of each function as a component like how Java their classes is kind of interesting. Their key difference, of course, being that the components only have one function.
+
+Honestly, it feels very convoluted and unecessary yet also very useful. I don't see myself becoming an expert in it unless needed but I do think that the way React structures itself is not as horrible as I initially thought it would be. I did like how easy it seemed to reuse each component after it has been set up. I just don't really like the initial setup is all.
+
+Not sure what pursuing React would be like, honestly. It just seems boring to design a website. Moreso, I would feel like I need to have multiple projects from multiple companies going on so that I can have a steady income - though it probably isn't like that at all. Just a thought, although probably ignorant. I just don't see myself doing this for a living.
